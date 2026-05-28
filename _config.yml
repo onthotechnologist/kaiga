@@ -2,6 +2,7 @@ title: Кайга
 description: Сеттинг Cairn
 theme: just-the-docs
 
+# Замените на свой GitHub username и имя репозитория после публикации:
 url: https://onthotechnologist.github.io
 baseurl: /kaiga
 
