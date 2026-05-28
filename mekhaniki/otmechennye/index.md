@@ -4,7 +4,7 @@ parent: Механики
 nav_order: 1
 ---
 
-# Отмеченные - это 
+# Отмеченные 
 
 *Низкий поклон [The Brighter Worlds](https://www.brighterworldsrpg.com/) за идею прогрессии способностей персонажей*
 
