@@ -1,3 +1,4 @@
+---
 title: Кайга
 description: Сеттинг Cairn
 theme: just-the-docs
@@ -24,3 +25,4 @@ defaults:
 
 exclude:
   - progress/
+  - current/
